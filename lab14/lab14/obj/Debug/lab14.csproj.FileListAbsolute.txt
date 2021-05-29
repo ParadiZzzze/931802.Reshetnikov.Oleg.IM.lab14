@@ -1,0 +1,30 @@
+C:\Users\Никита\source\repos\lab14\lab14\bin\Debug\lab14.exe.config
+C:\Users\Никита\source\repos\lab14\lab14\bin\Debug\lab14.exe
+C:\Users\Никита\source\repos\lab14\lab14\bin\Debug\lab14.pdb
+C:\Users\Никита\source\repos\lab14\lab14\obj\Debug\lab14.csprojAssemblyReference.cache
+C:\Users\Никита\source\repos\lab14\lab14\obj\Debug\lab14.Form1.resources
+C:\Users\Никита\source\repos\lab14\lab14\obj\Debug\lab14.Properties.Resources.resources
+C:\Users\Никита\source\repos\lab14\lab14\obj\Debug\lab14.csproj.GenerateResource.cache
+C:\Users\Никита\source\repos\lab14\lab14\obj\Debug\lab14.csproj.CoreCompileInputs.cache
+C:\Users\Никита\source\repos\lab14\lab14\obj\Debug\lab14.exe
+C:\Users\Никита\source\repos\lab14\lab14\obj\Debug\lab14.pdb
+V:\Новая папка (2)\lab14\lab14\bin\Debug\lab14.exe.config
+V:\Новая папка (2)\lab14\lab14\bin\Debug\lab14.exe
+V:\Новая папка (2)\lab14\lab14\bin\Debug\lab14.pdb
+V:\Новая папка (2)\lab14\lab14\obj\Debug\lab14.csprojAssemblyReference.cache
+V:\Новая папка (2)\lab14\lab14\obj\Debug\lab14.Form1.resources
+V:\Новая папка (2)\lab14\lab14\obj\Debug\lab14.Properties.Resources.resources
+V:\Новая папка (2)\lab14\lab14\obj\Debug\lab14.csproj.GenerateResource.cache
+V:\Новая папка (2)\lab14\lab14\obj\Debug\lab14.csproj.CoreCompileInputs.cache
+V:\Новая папка (2)\lab14\lab14\obj\Debug\lab14.exe
+V:\Новая папка (2)\lab14\lab14\obj\Debug\lab14.pdb
+C:\Users\olegr\OneDrive\Рабочий стол\lab14\lab14\bin\Debug\lab14.exe.config
+C:\Users\olegr\OneDrive\Рабочий стол\lab14\lab14\bin\Debug\lab14.exe
+C:\Users\olegr\OneDrive\Рабочий стол\lab14\lab14\bin\Debug\lab14.pdb
+C:\Users\olegr\OneDrive\Рабочий стол\lab14\lab14\obj\Debug\lab14.csprojAssemblyReference.cache
+C:\Users\olegr\OneDrive\Рабочий стол\lab14\lab14\obj\Debug\lab14.Form1.resources
+C:\Users\olegr\OneDrive\Рабочий стол\lab14\lab14\obj\Debug\lab14.Properties.Resources.resources
+C:\Users\olegr\OneDrive\Рабочий стол\lab14\lab14\obj\Debug\lab14.csproj.GenerateResource.cache
+C:\Users\olegr\OneDrive\Рабочий стол\lab14\lab14\obj\Debug\lab14.csproj.CoreCompileInputs.cache
+C:\Users\olegr\OneDrive\Рабочий стол\lab14\lab14\obj\Debug\lab14.exe
+C:\Users\olegr\OneDrive\Рабочий стол\lab14\lab14\obj\Debug\lab14.pdb
